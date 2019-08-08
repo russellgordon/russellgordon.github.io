@@ -1,0 +1,467 @@
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="#stylesheet" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:stylesheet id="stylesheet" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" exclude-result-prefixes="xsl">
+    <xsl:output method="html" doctype-system="about:legacy-compat" />
+    <xsl:template match="/rss">
+      <html lang="en-us">
+        <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <title> RSS | Russell Gordon</title>
+          <link rel="stylesheet" href="https://frosty-kepler-a9033a.onrender.com/css/base.min.43c81d144472b0114fe020544e95c0b1035a7a2596f77880d7b05dcde4e0ada7.css" integrity="sha256-Q8gdFERysBFP4CBUTpXAsQNaeiWW93iA17BdzeTgrac=" />
+        </head>
+        <body>
+          <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="https://frosty-kepler-a9033a.onrender.com">Russell Gordon</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/archive/">Archive</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/projects/">Projects</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/about/">About</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/index.xml">RSS</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+          <main>
+            <div class="u-wrapper">
+              <div class="u-padding">
+                <h2 class="Heading-title">
+                  
+                  <a class="Heading-link u-clickable" href="https://frosty-kepler-a9033a.onrender.com/index.xml" rel="bookmark"> RSS</a>
+                  
+                </h2>
+                
+                <p>
+                  To subscribe to this RSS feed, copy its address and paste it into your favorite feed reader.
+                </p>
+                
+              </div>
+            </div>
+          </main>
+          
+<footer class="Footer">
+  <div class="u-wrapper">
+    <div class="u-padding">
+      Except where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license"> Creative Commons Attribution 4.0 International License</a>.
+    </div>
+  </div>
+</footer>
+
+        </body>
+      </html>
+    </xsl:template>
+  </xsl:stylesheet>
+  <channel>
+    <title>Russell Gordon</title>
+    <link>https://frosty-kepler-a9033a.onrender.com/</link>
+    <description>Recent content on Russell Gordon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2019 13:47:50 -0400</lastBuildDate>
+    <atom:link href="https://frosty-kepler-a9033a.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Peculiar Form of Torment</title>
+      <link>https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/</link>
+      <pubDate>Tue, 06 Aug 2019 13:47:50 -0400</pubDate>
+      <guid>https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/</guid>
+      <description>&lt;p&gt;A possible future exchange on a popular TV game show:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I&#39;ll take Tedious Math Curricula for $200, Alex.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt; It&#39;s the Ontario mathematics course where half the expectations involve quadratic relations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What is Principles of Mathematics, Grade 10?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you&#39;re a math teacher in Ontario, it&#39;s likely that at some point in your career, you&#39;ve wondered whether your students – or you – could possibly make it through another day studying quadratics.&lt;/p&gt;
+
+&lt;p&gt;Another day of fitting curves to photos of a bridge:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/sipapu.jpg&#34; alt=&#34;Sipapu Natural Bridge in the Natural Bridges National Monument in central San Juan County, Utah, United States. A natural stone bridge that spans the White Canyon.&#34; width=&#34;568&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;Sipapu Natural Bridge&lt;/h4&gt;
+		&lt;p&gt;A stone bridge in central San Juan County, Utah, United States. Photo by Daniel Schwen, Wikimedia, with Desmos overlay by the author.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Or learning 
+
+
+&lt;a href=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/standard-form-to-vertex-form.pdf&#34;&gt;one more algebraic procedure&lt;/a&gt; to convert a relation in standard form:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
+y = ax^2 + bx + c
+\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;...to its equivalent in vertex form:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
+y = a\left(x - h\right)^2 + k
+\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;You might even struggle to make it through, who knows, dressing up some drab review of quadratic relations by &lt;a href=&#34;https://duckduckgo.com/?q=jeopardy+templates&amp;amp;t=osx&amp;amp;ia=web&#34;&gt;using a &lt;em&gt;Jeopardy!&lt;/em&gt; template&lt;/a&gt; at the end of a unit of study.&lt;/p&gt;
+
+&lt;p&gt;We are, of course, beholden to the curriculum, old and flawed though it may be.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a class=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;At issue is that each of the tasks described above involve seat work where students primarily manipulate symbols on paper or on a computer. They are not particularly engaging or challenging. To boot, the &lt;em&gt;Jeopardy!&lt;/em&gt; review activity introduces time pressure.&lt;/p&gt;
+
+&lt;p&gt;Given that we must work within a curriculum where the overemphasis on quadratics is a special form of torment for many students, what kind of tasks could we do instead?&lt;/p&gt;
+
+&lt;p&gt;What tasks might better activate the &lt;a href=&#34;http://www.edu.gov.on.ca/eng/studentsuccess/lms/files/tips4rm/TIPS4RMProcesses.pdf&#34;&gt;seven processes at the core of Ontario&#39;s math curriculum&lt;/a&gt;?&lt;/p&gt;
+
+&lt;h3 id=&#34;the-ball-in-a-can-challenge&#34;&gt;The Ball in a Can Challenge&lt;/h3&gt;
+
+&lt;p&gt;In 2006 I had the opportunity to attend the &lt;a href=&#34;https://www.exeter.edu/programs-educators/summer-conference-general-information/anja-s-greer-conference-mathematics-and&#34;&gt;Anja S. Greer Conference on Mathematics and Technology&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a class=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; at &lt;a href=&#34;https://www.exeter.edu&#34;&gt;Phillips Exeter Academy&lt;/a&gt; for the first time.&lt;/p&gt;
+
+&lt;p&gt;Larry Ottman led a weeklong session focused on getting students up, moving, taking measurements, and testing hypotheses in math class.&lt;/p&gt;
+
+&lt;p&gt;With his permission (and his reminder that the task did not originate with him) I will describe the &lt;em&gt;Ball in a Can Challenge&lt;/em&gt; here.&lt;/p&gt;
+
+&lt;p&gt;It says something about me, perhaps, that from Larry&#39;s weeklong session, I&#39;ve only retained this one activity. It&#39;s a pretty good one, though, and just about the only task I can think of where the class often ends with a scene like this:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;video width=&#34;568&#34; height=&#34;320&#34; controls&gt;
+	  &lt;source src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory.mp4&#34; type=&#34;video/mp4&#34;&gt;
+	Your browser does not support the video tag.
+	&lt;/video&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;Victory!&lt;/h4&gt;
+		&lt;p&gt;Students at The Bishop Strachan School celebrate. Slow motion video is fun, but &amp;#34;slow motion audio&amp;#34; sounds strange, so parts of the audio track have been muted.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;As you see from the video – that&#39;s the task.&lt;/p&gt;
+
+&lt;p&gt;A ball bearing rolls from a ramp.&lt;/p&gt;
+
+&lt;p&gt;If the mathematics are sound, the ball lands in the can.&lt;/p&gt;
+
+&lt;p&gt;Simple, right? It &lt;em&gt;can&lt;/em&gt; be. Let&#39;s dive in!&lt;/p&gt;
+
+&lt;h4 id=&#34;apparatus&#34;&gt;Apparatus&lt;/h4&gt;
+
+&lt;p&gt;Here&#39;s what you need:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-apparatus.jpg&#34; alt=&#34;Diagram illustrating the construction of the ramp required for the Ball in a Can Challenge. Two 24-inch lengths of wood are joined with a 2-inch angle iron at a 90-degree angle. An angle iron is attached at the end of each length of wood to allow a 35-inch piece of plastic molding or quarter-round to be inserted inside the bracket. This creates a ramp upon which the ball-bearing will roll from.&#34; width=&#34;568&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;Building a Ramp&lt;/h4&gt;
+		&lt;p&gt;It takes  some time to source materials and build the ramp, but after that initial investment, the activity is straightforward to set up in your classroom year after year.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To build the ramp, use a couple of angle irons to join the lengths of 24-inch boards together. The boards are optimally just under an inch high and three inches wide:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/boards-joined.jpg&#34; alt=&#34;Angle irons are used to join the two boards together at a 90-degree angle.&#34; width=&#34;169&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;&lt;/h4&gt;
+		&lt;p&gt;A strong join between the boards is helpful to be certain they remain perpendicular.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Once that&#39;s done, attach an angle-iron to the end of each board.&lt;/p&gt;
+
+&lt;p&gt;The plastic corner molding, or quarter-round, is placed between the angle irons on the board ends. This creates the curve that the ball bearing will roll down:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/board-end.jpg&#34; alt=&#34;An angle-iron is used to stop each end of the quarter-round.&#34; width=&#34;309&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;&lt;/h4&gt;
+		&lt;p&gt;The angle-iron should sit just a bit above the board, so that the corner-molding can be squeezed in at each end.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On the bottom of the ramp (the end the ball will fall from) attach a screw eye.&lt;/p&gt;
+
+&lt;p&gt;Use thread (or lightweight fishing line) and attach it to the screw eye.&lt;/p&gt;
+
+&lt;p&gt;Attach the magnet (or a weight) to the thread. Ensure that the thread is long enough such that the weight hovers just an inch or so above the ground. The thread length will need adjustment based on where you choose to place the ramp in your classroom. A couple of desks, carefully stacked on top of one another, can work, or a ladder. The higher you are able to safely place the ramp, the more fun the activity tends to be. Measure the length of the plumb line accordingly. You&#39;re aiming for something like this:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/plumb-line.jpg&#34; alt=&#34;A weight is suspended from the plumb line that begins where the ball leaves the ramp.&#34; width=&#34;453&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;&lt;/h4&gt;
+		&lt;p&gt;Here a weight borrowed from the Science department allows the plumb line to hang perpendicular to the floor.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You&#39;ll note that the end of the ramp in this most recent photo is constructed a little differently. The main idea is that, however the ramp is built, you want two boards that remain firmly perpendicular to one another. The ramp must allow for stable placement of the corner molding and for suspension of the plumb line directly under the location where the ball bearing leaves the ramp.&lt;/p&gt;
+
+&lt;p&gt;When you set up the ramp to begin the activity, it&#39;s a good idea to use a C-clamp to secure it to the ladder or desk:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/c-clamp.jpg&#34; alt=&#34;A C-clamp is used to secure the ramp to the desk or ladder on which it is placed.&#34; width=&#34;407&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;&lt;/h4&gt;
+		&lt;p&gt;It&amp;#39;s no fun at all if students carefully take measurements, perform their calculations, prepare to do the final drop, and then someone accidentally bumps the ramp – requiring the entire process to begin anew.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;setting-the-stage&#34;&gt;Setting the stage&lt;/h4&gt;
+
+&lt;p&gt;How to prepare students?&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve most often run the &lt;em&gt;Ball in a Can Challenge&lt;/em&gt; as a consolidation activity in a unit of study.&lt;/p&gt;
+
+&lt;p&gt;A group of twelve works well, with students mostly partnered and assigned specific roles:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Role&lt;/th&gt;
+&lt;th&gt;Responsibilities&lt;/th&gt;
+&lt;th&gt;Number of students&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Recorder&lt;/td&gt;
+&lt;td&gt;Writes down measurements, observes, makes suggestions. A quasi-leadership role.&lt;/td&gt;
+&lt;td&gt;One&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Dropper&lt;/td&gt;
+&lt;td&gt;The person who actually drops the ball. Consistency of drop technique is important! 😅&lt;/td&gt;
+&lt;td&gt;One&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Carbon paper&lt;/td&gt;
+&lt;td&gt;When the dropper is ready, this team tapes down a sheet of paper on the floor so that the ball is dropping into the middle of the paper. Then they lay the carbon sheet over top of the paper and when the ball is dropped, it leaves a mark on the paper. The dropper continues dropping until they are in enough of a rhythm that they consistently hit the same location on the paper (within a dime&#39;s diameter is sufficient). Once students have the spot, they should mark this on the paper. Another tip – it can be helpful to have the carbon paper team number the drops on the paper (1, 2, 3...) which can help the dropper become consistent more easily.&lt;/td&gt;
+&lt;td&gt;Two&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Floor measurement&lt;/td&gt;
+&lt;td&gt;This team measures the co-ordinates of the point where the ball hits the floor. If you want, you can tell students that the floor represents the horizontal axis, but in my experience, they will arrive at this conclusion themselves after some valuable conversation.&lt;/td&gt;
+&lt;td&gt;Two&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Vertex measurement&lt;/td&gt;
+&lt;td&gt;This team measures the co-ordinates of the vertex (where the ball leaves the ramp). You may wish to tell the team they are measuring &amp;quot;where the ball leaves the ramp&amp;quot; and leave it up to them to, again, decide amongst themselves that this represents the vertex, and that it&#39;s on the vertical axis of the mathematical model.&lt;/td&gt;
+&lt;td&gt;Two&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Can height&lt;/td&gt;
+&lt;td&gt;This team measures the height of the can above the ground. Some good discussion typically ensues when students debate whether to measure from the top or the bottom of the can.&lt;/td&gt;
+&lt;td&gt;Two&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Can placement&lt;/td&gt;
+&lt;td&gt;This team is responsible for placing the can prior to the penultimate drop.&lt;/td&gt;
+&lt;td&gt;Two&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;After measurements have been taken for the vertex and location of the ball drop, students can algebraically determine the missing value in the quadratic relation. I&#39;ve had groups use both of these forms with success:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
+y = a\left(x - h\right)^2 + k
+\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Or:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
+y = a\left(x - r\right)\left(x -s\right)
+\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;It&#39;s a good conversation to hear students decide on which equation to work with, and how that connects to the physical apparatus of the task.&lt;/p&gt;
+
+&lt;p&gt;I encourage students to be clear about the meaning of the independent and dependent variables. What does &lt;span  class=&#34;math&#34;&gt;\( x \)&lt;/span&gt; represent, and what are its units? And so on. This can be a nudge in the right direction if you&#39;ve noticed the two measurement teams working with different units.&lt;/p&gt;
+
+&lt;p&gt;Finally, once students have the complete equation that describes the path of the ball bearing, it doesn&#39;t take long to decide how they can use the can&#39;s height above the ground, and what this implies for their next steps.&lt;/p&gt;
+
+&lt;p&gt;It&#39;s worth noting that this entire task can run in a far more free-form manner.&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve had students work in groups as small as four, assign roles independently, and meet with success.&lt;/p&gt;
+
+&lt;p&gt;Here&#39;s another photo:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/measuring-ball-drops.jpg&#34; alt=&#34;Students work together to determine the where the ball bearing hits the ground.&#34; width=&#34;569&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;Where is that ball landing?&lt;/h4&gt;
+		&lt;p&gt;After the dropper has become consistent, it&amp;#39;s time to determine exactly where the ball is hitting the ground. Note the use of carbon paper to record where the ball hits the paper. The carbon paper should, of course, be placed over the paper taped to the ground when the ball is dropped.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And another step in the process:&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/measuring-can-height.jpg&#34; alt=&#34;Students measure the height of the tomato paste can that is attached to a lab or retort stand.&#34; width=&#34;568&#34;/&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;What&amp;#39;s the height of that can?&lt;/h4&gt;
+		&lt;p&gt;Once students have a mathematical model to describe the flight of the ball bearing, they must determine the height of the can. What would the next step be?&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If, as shown in the photo above, your classroom is carpeted, you&#39;ll need a thin, firm board to place beneath the paper and carbon paper – otherwise the ball bearing will be too cushioned upon impact to allow the carbon paper to make a mark.&lt;/p&gt;
+
+&lt;h4 id=&#34;assessment&#34;&gt;Assessment&lt;/h4&gt;
+
+&lt;p&gt;I have sometimes assessed student work on this task, and sometimes run it simply as a consolidation activity before a major holiday during the school year.&lt;/p&gt;
+
+&lt;p&gt;The task is ripe for recording observations and conversations or assessing learning skills.&lt;/p&gt;
+
+&lt;p&gt;Recall the seven mathematical processes in Ontario mathematics instruction:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Problem Solving&lt;/li&gt;
+&lt;li&gt;Reasoning and Proving&lt;/li&gt;
+&lt;li&gt;Reflecting&lt;/li&gt;
+&lt;li&gt;Selecting Tools and Computational Strategies&lt;/li&gt;
+&lt;li&gt;Connecting&lt;/li&gt;
+&lt;li&gt;Representing&lt;/li&gt;
+&lt;li&gt;Communicating&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.edu.gov.on.ca/eng/studentsuccess/lms/files/tips4rm/TIPS4RMProcesses.pdf&#34;&gt;prompts given in this document&lt;/a&gt; can be helpful in guiding your students as they complete the &lt;em&gt;Ball in a Can Challenge&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before the task begins, I&#39;ve sometimes told the class that later on, they&#39;d each need to author a short reflection, answering these four questions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Including a diagram, organize and explain the mathematics used by your group to obtain a successful result.&lt;/li&gt;
+&lt;li&gt;What went well in your group&#39;s effort to land the ball in the can?&lt;/li&gt;
+&lt;li&gt;What would you have changed about how your group completed the activity?&lt;/li&gt;
+&lt;li&gt;Evaluate your own participation in the group. What were your contributions? Were you an effective team member?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In some years, a day or two after the task itself, I&#39;ve given a quiz or test question where a diagram is presented along with key measurements, and the each student must individually solve and explain the problem once more.&lt;/p&gt;
+
+&lt;h4 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h4&gt;
+
+&lt;p&gt;The groups that are most successful are those that can communicate calmly and effectively with one another.&lt;/p&gt;
+
+&lt;p&gt;Don&#39;t permit students to work by trial and error, or &amp;quot;eyeball&amp;quot; measurements. This short-circuits the rich conversations that will ensue when a quantitative approach to problem solving is used.&lt;/p&gt;
+
+&lt;p&gt;It can be a real drag if a group doesn&#39;t land the ball bearing in the can on the first try.&lt;/p&gt;
+
+&lt;p&gt;With a small nudge to reconsider some part of their approach, I&#39;ve never had a group fail to land the ball in the can on their second try.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+	&lt;video width=&#34;568&#34; height=&#34;320&#34; controls&gt;
+	  &lt;source src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory-lcs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+	Your browser does not support the video tag.
+	&lt;/video&gt;
+	&lt;figcaption&gt;
+		&lt;h4&gt;Success!&lt;/h4&gt;
+		&lt;p&gt;A small group of four students at Lakefield College School ace the challenge.&lt;p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;The &lt;em&gt;Ball in a Can Challenge&lt;/em&gt; takes time to set up, but the payoff for your students will be worth it.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;http://www.ahbel.com&#34;&gt;Nils Ahbel&lt;/a&gt; outlines this very well in &lt;a href=&#34;https://www.youtube.com/watch?v=rOhhAFSsu_g&#34;&gt;Reflections on a 119-Year Old Curriculum&lt;/a&gt;. The content of his talk is well worth looking past the less than ideal audio quality of the recording.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;^&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;The Greer conference at PEA deserves to be explicated in its own article. Here&#39;s the short version: if you&#39;re a math teacher, go. Find a way. You won&#39;t regret it.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;^&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+  </channel>
+</rss>
