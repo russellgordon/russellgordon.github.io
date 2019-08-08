@@ -12,30 +12,30 @@
         <head>
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           <title> RSS | Russell Gordon</title>
-          <link rel="stylesheet" href="https://frosty-kepler-a9033a.onrender.com/css/base.min.43c81d144472b0114fe020544e95c0b1035a7a2596f77880d7b05dcde4e0ada7.css" integrity="sha256-Q8gdFERysBFP4CBUTpXAsQNaeiWW93iA17BdzeTgrac=" />
+          <link rel="stylesheet" href="https://russellgordon.github.io/css/base.min.43c81d144472b0114fe020544e95c0b1035a7a2596f77880d7b05dcde4e0ada7.css" integrity="sha256-Q8gdFERysBFP4CBUTpXAsQNaeiWW93iA17BdzeTgrac=" />
         </head>
         <body>
           <nav class="u-background">
   <div class="u-wrapper">
     <ul class="Banner">
       <li class="Banner-item Banner-item--title">
-        <a class="Banner-link u-clickable" href="https://frosty-kepler-a9033a.onrender.com">Russell Gordon</a>
+        <a class="Banner-link u-clickable" href="https://russellgordon.github.io">Russell Gordon</a>
       </li>
       
       <li class="Banner-item">
-        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/archive/">Archive</a>
+        <a class="Banner-link u-clickable navitem" href="https://russellgordon.github.io/archive/">Archive</a>
       </li>
       
       <li class="Banner-item">
-        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/projects/">Projects</a>
+        <a class="Banner-link u-clickable navitem" href="https://russellgordon.github.io/projects/">Projects</a>
       </li>
       
       <li class="Banner-item">
-        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/about/">About</a>
+        <a class="Banner-link u-clickable navitem" href="https://russellgordon.github.io/about/">About</a>
       </li>
       
       <li class="Banner-item">
-        <a class="Banner-link u-clickable navitem" href="https://frosty-kepler-a9033a.onrender.com/index.xml">RSS</a>
+        <a class="Banner-link u-clickable navitem" href="https://russellgordon.github.io/index.xml">RSS</a>
       </li>
       
     </ul>
@@ -46,7 +46,7 @@
               <div class="u-padding">
                 <h2 class="Heading-title">
                   
-                  <a class="Heading-link u-clickable" href="https://frosty-kepler-a9033a.onrender.com/index.xml" rel="bookmark"> RSS</a>
+                  <a class="Heading-link u-clickable" href="https://russellgordon.github.io/index.xml" rel="bookmark"> RSS</a>
                   
                 </h2>
                 
@@ -72,17 +72,17 @@
   </xsl:stylesheet>
   <channel>
     <title>Russell Gordon</title>
-    <link>https://frosty-kepler-a9033a.onrender.com/</link>
+    <link>https://russellgordon.github.io/</link>
     <description>Recent content on Russell Gordon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2019 13:47:50 -0400</lastBuildDate>
-    <atom:link href="https://frosty-kepler-a9033a.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://russellgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Peculiar Form of Torment</title>
-      <link>https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/</link>
+      <link>https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/</link>
       <pubDate>Tue, 06 Aug 2019 13:47:50 -0400</pubDate>
-      <guid>https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/</guid>
+      <guid>https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/</guid>
       <description>&lt;p&gt;A possible future exchange on a popular TV game show:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -105,7 +105,7 @@
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/sipapu.jpg&#34; alt=&#34;Sipapu Natural Bridge in the Natural Bridges National Monument in central San Juan County, Utah, United States. A natural stone bridge that spans the White Canyon.&#34; width=&#34;568&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/sipapu.jpg&#34; alt=&#34;Sipapu Natural Bridge in the Natural Bridges National Monument in central San Juan County, Utah, United States. A natural stone bridge that spans the White Canyon.&#34; width=&#34;568&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;Sipapu Natural Bridge&lt;/h4&gt;
 		&lt;p&gt;A stone bridge in central San Juan County, Utah, United States. Photo by Daniel Schwen, Wikimedia, with Desmos overlay by the author.&lt;p&gt;
@@ -115,7 +115,7 @@
 &lt;p&gt;Or learning 
 
 
-&lt;a href=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/standard-form-to-vertex-form.pdf&#34;&gt;one more algebraic procedure&lt;/a&gt; to convert a relation in standard form:&lt;/p&gt;
+&lt;a href=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/standard-form-to-vertex-form.pdf&#34;&gt;one more algebraic procedure&lt;/a&gt; to convert a relation in standard form:&lt;/p&gt;
 
 &lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[
 y = ax^2 + bx + c
@@ -156,7 +156,7 @@ y = a\left(x - h\right)^2 + k
 
 &lt;figure&gt;
 	&lt;video width=&#34;568&#34; height=&#34;320&#34; controls&gt;
-	  &lt;source src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory.mp4&#34; type=&#34;video/mp4&#34;&gt;
+	  &lt;source src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory.mp4&#34; type=&#34;video/mp4&#34;&gt;
 	Your browser does not support the video tag.
 	&lt;/video&gt;
 	&lt;figcaption&gt;
@@ -186,7 +186,7 @@ y = a\left(x - h\right)^2 + k
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-apparatus.jpg&#34; alt=&#34;Diagram illustrating the construction of the ramp required for the Ball in a Can Challenge. Two 24-inch lengths of wood are joined with a 2-inch angle iron at a 90-degree angle. An angle iron is attached at the end of each length of wood to allow a 35-inch piece of plastic molding or quarter-round to be inserted inside the bracket. This creates a ramp upon which the ball-bearing will roll from.&#34; width=&#34;568&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/ball-in-a-can-apparatus.jpg&#34; alt=&#34;Diagram illustrating the construction of the ramp required for the Ball in a Can Challenge. Two 24-inch lengths of wood are joined with a 2-inch angle iron at a 90-degree angle. An angle iron is attached at the end of each length of wood to allow a 35-inch piece of plastic molding or quarter-round to be inserted inside the bracket. This creates a ramp upon which the ball-bearing will roll from.&#34; width=&#34;568&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;Building a Ramp&lt;/h4&gt;
 		&lt;p&gt;It takes  some time to source materials and build the ramp, but after that initial investment, the activity is straightforward to set up in your classroom year after year.&lt;p&gt;
@@ -203,7 +203,7 @@ y = a\left(x - h\right)^2 + k
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/boards-joined.jpg&#34; alt=&#34;Angle irons are used to join the two boards together at a 90-degree angle.&#34; width=&#34;169&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/boards-joined.jpg&#34; alt=&#34;Angle irons are used to join the two boards together at a 90-degree angle.&#34; width=&#34;169&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;&lt;/h4&gt;
 		&lt;p&gt;A strong join between the boards is helpful to be certain they remain perpendicular.&lt;p&gt;
@@ -222,7 +222,7 @@ y = a\left(x - h\right)^2 + k
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/board-end.jpg&#34; alt=&#34;An angle-iron is used to stop each end of the quarter-round.&#34; width=&#34;309&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/board-end.jpg&#34; alt=&#34;An angle-iron is used to stop each end of the quarter-round.&#34; width=&#34;309&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;&lt;/h4&gt;
 		&lt;p&gt;The angle-iron should sit just a bit above the board, so that the corner-molding can be squeezed in at each end.&lt;p&gt;
@@ -243,7 +243,7 @@ y = a\left(x - h\right)^2 + k
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/plumb-line.jpg&#34; alt=&#34;A weight is suspended from the plumb line that begins where the ball leaves the ramp.&#34; width=&#34;453&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/plumb-line.jpg&#34; alt=&#34;A weight is suspended from the plumb line that begins where the ball leaves the ramp.&#34; width=&#34;453&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;&lt;/h4&gt;
 		&lt;p&gt;Here a weight borrowed from the Science department allows the plumb line to hang perpendicular to the floor.&lt;p&gt;
@@ -262,7 +262,7 @@ y = a\left(x - h\right)^2 + k
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/c-clamp.jpg&#34; alt=&#34;A C-clamp is used to secure the ramp to the desk or ladder on which it is placed.&#34; width=&#34;407&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/c-clamp.jpg&#34; alt=&#34;A C-clamp is used to secure the ramp to the desk or ladder on which it is placed.&#34; width=&#34;407&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;&lt;/h4&gt;
 		&lt;p&gt;It&amp;#39;s no fun at all if students carefully take measurements, perform their calculations, prepare to do the final drop, and then someone accidentally bumps the ramp – requiring the entire process to begin anew.&lt;p&gt;
@@ -363,7 +363,7 @@ y = a\left(x - r\right)\left(x -s\right)
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/measuring-ball-drops.jpg&#34; alt=&#34;Students work together to determine the where the ball bearing hits the ground.&#34; width=&#34;569&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/measuring-ball-drops.jpg&#34; alt=&#34;Students work together to determine the where the ball bearing hits the ground.&#34; width=&#34;569&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;Where is that ball landing?&lt;/h4&gt;
 		&lt;p&gt;After the dropper has become consistent, it&amp;#39;s time to determine exactly where the ball is hitting the ground. Note the use of carbon paper to record where the ball hits the paper. The carbon paper should, of course, be placed over the paper taped to the ground when the ball is dropped.&lt;p&gt;
@@ -380,7 +380,7 @@ y = a\left(x - r\right)\left(x -s\right)
 
 
 &lt;figure&gt;
-	&lt;img src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/measuring-can-height.jpg&#34; alt=&#34;Students measure the height of the tomato paste can that is attached to a lab or retort stand.&#34; width=&#34;568&#34;/&gt;
+	&lt;img src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/measuring-can-height.jpg&#34; alt=&#34;Students measure the height of the tomato paste can that is attached to a lab or retort stand.&#34; width=&#34;568&#34;/&gt;
 	&lt;figcaption&gt;
 		&lt;h4&gt;What&amp;#39;s the height of that can?&lt;/h4&gt;
 		&lt;p&gt;Once students have a mathematical model to describe the flight of the ball bearing, they must determine the height of the can. What would the next step be?&lt;p&gt;
@@ -439,7 +439,7 @@ y = a\left(x - r\right)\left(x -s\right)
 
 &lt;figure&gt;
 	&lt;video width=&#34;568&#34; height=&#34;320&#34; controls&gt;
-	  &lt;source src=&#34;https://frosty-kepler-a9033a.onrender.com/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory-lcs.mp4&#34; type=&#34;video/mp4&#34;&gt;
+	  &lt;source src=&#34;https://russellgordon.github.io/2019/08/a-peculiar-form-of-torment/ball-in-a-can-victory-lcs.mp4&#34; type=&#34;video/mp4&#34;&gt;
 	Your browser does not support the video tag.
 	&lt;/video&gt;
 	&lt;figcaption&gt;
